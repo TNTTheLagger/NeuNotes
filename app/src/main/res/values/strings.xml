@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NeuNotes</string>
+    <string name="add_note">Add Note</string>
+    <string name="content_preview">Content Preview</string>
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="save">Save</string>
+</resources>
